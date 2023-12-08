@@ -1,0 +1,2 @@
+# Secure-File-Sharing-System
+This project implements a secure file-sharing system using Django, a high-level Python web framework, and the Django REST framework for building RESTful APIs. The system facilitates file sharing between two types of users: Operations Users (Ops Users) and Client Users. Ops Users are responsible for tasks such as uploading files, while Client Users can sign up, verify their email, log in, download files, and view a list of uploaded files.
